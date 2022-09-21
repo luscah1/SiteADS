@@ -379,3 +379,12 @@ textarea.input{
     color: #333;
     margin: 1.5rem 0 2rem 0;
 }
+
+a{
+    color: grey;
+    font-style: italic;
+}
+
+a:hover{
+    color: white;
+}
