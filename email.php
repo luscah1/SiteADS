@@ -11,7 +11,11 @@ $recipient = "archdocs.senai@gmail.com";
 
 mail($recipient, $subject, $message, $mailheader) or die("Erro.");
 
-var_dump($_POST);
+echo($name);
+echo($email);
+echo($subject);
+echo($message);
+
 
 #echo'<!DOCTYPE html>
 #<html lang="en">
