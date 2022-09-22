@@ -84,7 +84,7 @@ ul{
 
 .mapa-conteudo{
     width: 100px;
-    padding: 1em 32em; 
+    padding-left: 250px;
     margin-bottom: 0em;
     border-radius: 20px;
 }
@@ -116,7 +116,7 @@ ul{
 .conteudoBeneficio{
     width: 700px;
     margin: 0 auto;
-    margin-left: 620px;
+    margin-left: 400px;
 }
 
 .listaBeneficio{
