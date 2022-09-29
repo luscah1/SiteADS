@@ -79,12 +79,11 @@ ul{
 
 .map{
     padding: 3em 0;
-    background: linear-gradient(#ffffff, #eeeeee);
 }
 
 .mapa-conteudo{
-    width: 100px;
-    padding-left: 250px;
+    width: 3em;
+    padding-left: 32em;
     margin-bottom: 0em;
     border-radius: 20px;
 }
@@ -98,7 +97,7 @@ ul{
 .map h3{
     text-align: center;
     font-size: 2em;
-    color: #1B1A17;
+    color: white;
     margin-top: 5em;
 }
 
@@ -116,7 +115,7 @@ ul{
 .conteudoBeneficio{
     width: 700px;
     margin: 0 auto;
-    margin-left: 400px;
+    margin-left: 40em;
 }
 
 .listaBeneficio{

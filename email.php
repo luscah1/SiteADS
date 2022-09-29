@@ -5,7 +5,7 @@ $email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$mailheader = "De: ".$name."<".$email.">\r\n";
+$mailheader = "De: ".$email;
 
 $recipient = "archdocs.senai@gmail.com";
 
